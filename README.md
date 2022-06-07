@@ -3,6 +3,7 @@
 
 
 ![Carlos Eduardo-ADV - Google Chrome 2022-05-12 21-00-20](https://user-images.githubusercontent.com/97768716/168186367-640b631b-6ccc-4c6b-9061-0530297101c7.gif)
+![Design_sem_nome__4_-removebg-preview (2)](https://user-images.githubusercontent.com/97768716/172434801-0f751eeb-f849-4a9a-b2c8-f7a37ec0dcd6.png)
 
 <h2 align="center">
   <a href="https://carlos-8t9z92keg-gabrielsf2022.vercel.app/" target="_blank"> Veja o site </a>
